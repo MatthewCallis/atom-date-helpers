@@ -2,7 +2,7 @@
 
 Adds date highlighting and conversion to Atom.
 
-![Screenshot](screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/MatthewCallis/atom-date-helpers/master/screenshot.png)
 
 ## Notes
 
