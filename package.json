@@ -1,7 +1,7 @@
 {
   "name": "atom-date-helpers",
   "main": "./lib/atom-date-helpers",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A short description of your package",
   "author": "Matthew Callis <matthew.callis@gmail.com>",
   "homepage": "https://github.com/MatthewCallis/atom-date-helpers",
@@ -18,7 +18,12 @@
       "web": "https://eludevisibility.org"
     }
   ],
-  "keywords": ["date", "highlight", "convert", "timestamp"],
+  "keywords": [
+    "date",
+    "highlight",
+    "convert",
+    "timestamp"
+  ],
   "activationCommands": {
     "atom-workspace": [
       "atom-date-helpers:toggle",
