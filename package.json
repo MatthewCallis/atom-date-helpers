@@ -1,7 +1,7 @@
 {
   "name": "atom-date-helpers",
   "main": "./lib/atom-date-helpers",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Adds date / timestamp highlighting & conversion to Atom.",
   "author": "Matthew Callis <matthew.callis@gmail.com>",
   "homepage": "https://github.com/MatthewCallis/atom-date-helpers",
