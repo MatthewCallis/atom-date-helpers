@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "atom-date-helpers:toggle",
+    "ctrl-alt-c": "atom-date-helpers:convert"
+  }
+}

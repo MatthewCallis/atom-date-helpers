@@ -1,0 +1,39 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Date Convert",
+        "submenu": [
+          {
+            "label": "Convert Date",
+            "command": "atom-date-helpers:convert"
+          },
+          {
+            "label": "Toggle Date Tooltips",
+            "command": "atom-date-helpers:toggle"
+          }
+        ]
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Date Convert",
+          "submenu": [
+            {
+              "label": "Convert Date",
+              "command": "atom-date-helpers:convert"
+            },
+            {
+              "label": "Toggle Date Tooltips",
+              "command": "atom-date-helpers:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
