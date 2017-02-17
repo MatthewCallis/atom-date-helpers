@@ -6,7 +6,7 @@ Adds date highlighting and conversion to Atom.
 
 ## Notes
 
-Dates accept any valid [Moment.js]() format. Dates are slightly highlighted between the following colors along a scale (1/4th a year):
+Dates accept any valid [Moment.js](https://momentjs.com/) format. Dates are slightly highlighted between the following colors along a scale (1/4th a year):
 
 ```sass
 #F3B1CB, #F0ACA8, #FFC9AD, #F2E1AC, #E0F7D2, #DDEDF8, #7484DA
